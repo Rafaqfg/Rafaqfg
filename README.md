@@ -1,16 +1,43 @@
-### Hi there 👋
+ <strong>Hey there 👋</strong>
+ <h2>I’m Rafael Godoy and i started my career as a Web Developer in 2021.</h2>
 
-<!--
-**Rafaqfg/Rafaqfg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div>
+  <h3>About me</h3>
+  - 🌲 I’m Front-End Web Developer formed by <a href="https://betrybe.com" target="_blank" style="text-decoration:none">Trybe</a>.<br>
+  - 🌱 I’m currently learning SQL, Node.js, TypeScript, SOLID, MongoDB, OOP, Python and more in Back-End Web Developer course at <a href="https://betrybe.com" target="_blank" style="text-decoration:none">Trybe</a>.<br>
+  - 🇧🇷 I’m from Campinas - sp.<br>
+ </div>
+<br>
+<br>
+Contact me
+<div>
+  <a href = "mailto:rafa.qfg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafael-quaglia-franco-de-godoy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ##
+
+<div style="display: inline_block"<br>
+  <h3>Technologies and tools I'm familiar with</h3>
+  <img align="center" alt="Rafa-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="center" alt="Rafa-jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img align="center" alt="Rafa-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="Rafa-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="Rafa-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Rafa-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+<br>
+<br>
+<div align="center">
+  <a href="https://github.com/Rafaqfg">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Rafaqfg&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaqfg&layout=compact&langs_count=7&theme=react"/>
+  </a>
+</div>
+  
+
+
