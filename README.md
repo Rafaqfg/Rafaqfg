@@ -1,11 +1,11 @@
  <strong>Hey there 👋</strong>
- <h2>I’m Rafael Godoy and i started my career as a Web Developer in 2021.</h2>
+ <h2>I’m Rafael Godoy and I started my career as a Web Developer in 2021.</h2>
 
 
 <div>
   <h3>About me</h3>
   - 🌲 I’m Front-End Web Developer formed by <a href="https://betrybe.com" target="_blank" style="text-decoration:none">Trybe</a>.<br>
-  - 🌱 I’m currently learning SQL, Node.js, TypeScript, SOLID, MongoDB, OOP, Python and more in Back-End Web Developer course at <a href="https://betrybe.com" target="_blank" style="text-decoration:none">Trybe</a>.<br>
+  - 🌱 I’m currently learning SQL, Node.js, TypeScript, SOLID, MongoDB, OOP, Python and more in Back-End Web Development course at <a href="https://betrybe.com" target="_blank" style="text-decoration:none">Trybe</a>.<br>
   - 🇧🇷 I’m from Campinas - sp.<br>
  </div>
 <br>
@@ -23,7 +23,11 @@ Contact me
   <img align="center" alt="Rafa-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Rafa-redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="Rafa-jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align="center" alt="Rafa-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="Rafa-docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="Rafa-mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+  <img align="center" alt="Rafa-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Rafa-express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img align="center" alt="Rafa-mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
   <img align="center" alt="Rafa-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Rafa-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Rafa-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
