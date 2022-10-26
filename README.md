@@ -4,8 +4,9 @@
 
 <div>
   <h3>About me</h3>
-  - 🌲 I’m Front-End Web Developer formed by <a href="https://betrybe.com" target="_blank" style="text-decoration:none">Trybe</a>.<br>
-  - 🌱 I’m currently learning SQL, Node.js, TypeScript, SOLID principle, MongoDB, OOP principle, Python and more in Back-End Web Development course at <a href="https://betrybe.com" target="_blank" style="text-decoration:none">Trybe</a>.<br>
+  - 🌲 I’m Frontend Web Developer formed by <a href="https://betrybe.com" target="_blank" style="text-decoration:none">Trybe</a>.<br>
+  - 🌲 I’m Backend Web Developer formed by <a href="https://betrybe.com" target="_blank" style="text-decoration:none">Trybe</a>.<br>
+  - 🌱 I’m currently learning Python, Network architecture, Data Scraping, Algorithms, Data structure and more in Computer Science course at <a href="https://betrybe.com" target="_blank" style="text-decoration:none">Trybe</a>.<br>
   - 🇧🇷 I’m from Campinas<br>
   - :poland: Currently I'm living in Warsaw<br>
  </div>
